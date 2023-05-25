@@ -6,7 +6,7 @@ A simple not-so-responsive-website to find developers across GitHub to find deve
 <br><br><br>
 ### Find all the information about a github user ,profile photo ,  such as number or repos , follower , following , about , and a graphical representation of the languages used , all at one place using 
 
-[DEV-STAGRAM](https://dev-stagram.herokuapp.com)
+[DEV-STAGRAM](http://devstagram123.great-site.net/)
 
 <br><br><br>
 <div align="center"><img  src="https://i.postimg.cc/v8kn9Jf6/Screenshot-2022-10-17-164209.png" width=70% height=70%></div>
